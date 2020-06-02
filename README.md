@@ -6,8 +6,8 @@
 
 CurrencyPal is a simple currency convertor which works with real time API and can convert user selected currency to 32 another currencies with user friendly interface. </br>
 
-![](Images/CurrencyPal1.jpg)
-![](Images/CurrencyPal2.jpg)
+![](Images/CurrencyPal1.png)
+![](Images/CurrencyPal2.png)
 
 # Contact Info
 
